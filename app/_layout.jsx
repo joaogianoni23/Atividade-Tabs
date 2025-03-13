@@ -42,7 +42,7 @@ export default function Layout(){
             options={{
                 title: "Noticias",
                 tabBarIcon: ({ color, size }) => (
-                    <Ionicons name="notices" color={color} size={size} />
+                    <Ionicons name="newspaper-outline" color={color} size={size} />
                 ),
             }}
             />

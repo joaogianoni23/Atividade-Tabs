@@ -3,8 +3,8 @@ import { View, Text, StyleSheet } from 'react-native';
 export default function Home () {
     return (
         <View style={styles.container}>
-            <Text style={styles.text}>Bem-vindo á Página Inicial!</Text>
-            <Text>Este é um app com Expo Router</Text>
+            <Text style={styles.text}>Bem-vindo á Página Inicial do nosso site!</Text>
+            <Text>Vai Corinthians!!!</Text>
             </View>
     );
 }
